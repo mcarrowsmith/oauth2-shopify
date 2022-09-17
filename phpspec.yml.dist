@@ -1,0 +1,4 @@
+suites:
+    default:
+        namespace: McArrowsmithPackages\Oauth2Shopify
+        psr4_prefix: McArrowsmithPackages\Oauth2Shopify
